@@ -1,2 +1,2 @@
-# Maratona-Discover-dev.finance-
+# Maratona-Discover-dev.finance
 Uma aplicação financeira.
