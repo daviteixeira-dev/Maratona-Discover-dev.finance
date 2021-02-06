@@ -1,2 +1,2 @@
 # Maratona-Discover-dev.finance
-Uma aplicação financeira.
+Uma aplicação financeira utilizando HTML, CSS e JavaScript.
